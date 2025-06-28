@@ -1,24 +1,14 @@
-## 🚀 Next Steps
-
-1. ✅ **Update repository name to `Aritraghoshdastidar.github.io`** (Done!)
-2. **Update [`config.json`](https://github.com/Aritraghoshdastidar/Aritraghoshdastidar.github.io/blob/main/config.json)** with your personal information, experience, and projects and then run [this workflow](https://github.com/Aritraghoshdastidar/Aritraghoshdastidar.github.io/actions/workflows/update-readme.yml) to update the README
-3. **Replace assets** in the [`assets/`](https://github.com/Aritraghoshdastidar/Aritraghoshdastidar.github.io/tree/main/assets/) folder with your own logos and project images
-4. **Add "featured" topic** to [GitHub repositories](https://github.com/Aritraghoshdastidar?tab=repositories) you want to showcase
-5. **Enable GitHub Pages** in [repository settings](https://github.com/Aritraghoshdastidar/Aritraghoshdastidar.github.io/settings/pages) to make your portfolio live
-6. **Customize further** by adding more content
-
----
-
 # Aritra Ghosh Dastidar - Developer Portfolio
 
 <div align="left">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://Aritraghoshdastidar.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Aritraghoshdastidar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](undefined)
 
 </div>
 
-Welcome to my developer portfolio! This website showcases my projects, skills, and professional journey.
+The live portfolio includes detailed professional experience, technical skills and certifications, featured projects and achievements.
 
 ## ✨ Features
 
@@ -47,6 +37,7 @@ Let's connect and build something amazing together!
 
 - 🌐 **Portfolio**: [https://Aritraghoshdastidar.github.io](https://Aritraghoshdastidar.github.io)
 - 💻 **GitHub**: [https://github.com/Aritraghoshdastidar](https://github.com/Aritraghoshdastidar)
+- 🔗 **LinkedIn**: [undefined](undefined)
 
 ---
 
